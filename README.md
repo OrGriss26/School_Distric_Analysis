@@ -25,7 +25,7 @@ Updated
 
 Original
 
-![School_Summary_df_Original.png](https://github.com/OrGriss26/School_District_Analysis/tree/main/Resources/School_Summary_df_Original.png)
+![School_Summary_df_Original.png](https://github.com/OrGriss26/School_District_Analysis/tree/main/Resources/PNG/School_Summary_df_Original.png)
 
 Updated
 
