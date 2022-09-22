@@ -7,7 +7,7 @@ A school board employee has given us the following tasks to analyise a set of da
 
 Due to potential academic dishonesty by the ninth grade students of Thomas High School, this analysis was conducted twice. The first trial of this analysis included the full set of student data. In the second trial of this analysis, the ninth grade students of Thomas High School had their scores omitted from the calculations. The entire ninth grade class of Thomas High School have had their scores replaced with NaN. The DataFrame below is a summary representing the District after replacing the ninth graders' scores with NaN.
 
-1. How is the district summary affected?
+### How is the district summary affected?
 
    - The modified summary shows that the Average Math stayede the same, the Average Reading Score increase, the percentage of students Passing Math decrease, the percentage of students Passing Reading decreased and the percentage of students passing both Math and Reading decreased. The adjusted summary is the lower graphic, and the original is the upper graphic.
    
@@ -19,7 +19,7 @@ Updated
 
 ![District_Summary_df_Updated.png](District_Summary_df_Updated.png)
 
-2. How is the school summary affected?
+### How is the school summary affected?
 
   - The modified summary shows that with-in Thomas High School, the Average Math Score decreased, the Average Reading Score decreased, the percentage of students Passing Math decreased, the percentage of students Passing Reading decreased, and the percentage of students Passing both Math and Reading decreased. The adjusted summary is the lower graphic, and the original is the upper graphic.
 
@@ -31,7 +31,7 @@ Updated
 
 ![School_Summary_df_Updated.png](School_Summary_df_Updated.png)
 
-3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
 In the original picture, Thomas High School ranked 2nd in the district, raising red flags with the school board.
 
@@ -45,7 +45,7 @@ Updated
 
 ![Pic_4.png](Pic_4.png)
 
-4. How does replacing the ninth-grade scores affect the following:
+### How does replacing the ninth-grade scores affect the following:
 
    - Math and reading scores by grade
 
