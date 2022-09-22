@@ -49,7 +49,7 @@ Updated
 
    - Math and reading scores by grade
 
-      - Math Score
+      -- Math Score
       
  Original
  
@@ -58,8 +58,8 @@ Updated
  Updated
  
  ![Math_Score_by_Grade_Updated.png](Math_Score_by_Grade_Updated.png)
- 
-      - Reading Score
+      
+      - - Reading Score
       
  Original
  
@@ -68,3 +68,50 @@ Updated
  Updated
  
  ![Reading_Score_by_Grade_Updated.png](Reading_Score_by_Grade_Updated.png)
+
+   - Scores by school spending
+
+Thomas High School falls in the $630-$644/student spending range. However, the hundredths place was needed to see the nominal changes.
+
+![Score_by_School_Spending.png](Score_by_School_Spending.png)
+
+Original
+
+![Score_by_School_Spending_Original.png](Score_by_School_Spending_Original.png)
+
+Updated
+
+![Score_by_School_Spending_Updated.png](Score_by_School_Spending_Updated.png)
+
+   - Scores by school size
+
+Thomas High School is defined as a medium size school. The hundredths place was needed to see the nominal changes.
+
+![Scores_by_School_Size.png](Scores_by_School_Size.png)
+
+Original
+
+![Scores_by_School_Size_Original.png](Scores_by_School_Size_Original.png)
+
+Updated
+
+![Scores_by_School_Size_Updated.png](Scores_by_School_Size_Updated.png)
+
+   - Scores by school type
+
+Thomas High School is a charter school type. The hundredths place was needed to see the nominal changes.
+
+Original
+
+![Scores_by_School_Type_Original.png](Scores_by_School_Type_Original.png)
+
+Updated
+
+![Scores_by_School_Type_Updated.png](Scores_by_School_Type_Updated.png)
+
+## Summary
+
+1. District Analysis - changes to all scores by less than 0.5 percentage points (or change by less than 0.5%) - no impact to school or student count.
+2. The overall passing rate for Thomas High School changed dramatically from 91% to 65%.
+3. Thomas High School's ranking dropped from 2nd to 13th in the district of 15 campuses.
+4. Scores by School Type - chages to Charter type grouping for all scores by less than 0.4 percentage points (or change by less than 0.4%).
