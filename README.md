@@ -9,7 +9,7 @@ Due to potential academic dishonesty by the ninth grade students of Thomas High 
 
 1. How is the district summary affected?
 
-   - The modified summary shows that the Average Math Score decrease, the Average Reading Score increase, the percentage of students Passing Math decrease, the percentage of students Passing Reading decreased and the percentage of students passing both Math and Reading decreased. The adjusted summary is the lower graphic, and the original is the upper graphic.
+   - The modified summary shows that the Average Math stayede the same, the Average Reading Score increase, the percentage of students Passing Math decrease, the percentage of students Passing Reading decreased and the percentage of students passing both Math and Reading decreased. The adjusted summary is the lower graphic, and the original is the upper graphic.
    
 Original
 
@@ -21,7 +21,7 @@ Updated
 
 2. How is the school summary affected?
 
-  - The modified summary shows that with-in Thomas High School, the Average Math Score decreased, the Average Reading Score increased, the percentage of students Passing Math decreased, the percentage of students Passing Reading decreased, and the percentage of students Passing both Math and Reading decreased. The adjusted summary is the lower graphic, and the original is the upper graphic.
+  - The modified summary shows that with-in Thomas High School, the Average Math Score decreased, the Average Reading Score decreased, the percentage of students Passing Math decreased, the percentage of students Passing Reading decreased, and the percentage of students Passing both Math and Reading decreased. The adjusted summary is the lower graphic, and the original is the upper graphic.
 
 Original
 
@@ -33,3 +33,38 @@ Updated
 
 3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
+In the original picture, Thomas High School ranked 2nd in the district, raising red flags with the school board.
+
+Original
+
+![Pic_3.png](Pic_3.png)
+
+After adjusting the 9th grade data, Thomas High School ranked was not in2nd place anymore.
+
+Updated
+
+![Pic_4.png](Pic_4.png)
+
+4. How does replacing the ninth-grade scores affect the following:
+
+   - Math and reading scores by grade
+
+      - Math Score
+      
+ Original
+ 
+ ![Math_Score_by_Grade_Original.png](Math_Score_by_Grade_Original.png)
+ 
+ Updated
+ 
+ ![Math_Score_by_Grade_Updated.png](Math_Score_by_Grade_Updated.png)
+ 
+      - Reading Score
+      
+ Original
+ 
+ ![Reading_Score_by_Grade_Original.png](Reading_Score_by_Grade_Original.png)
+ 
+ Updated
+ 
+ ![Reading_Score_by_Grade_Updated.png](Reading_Score_by_Grade_Updated.png)
