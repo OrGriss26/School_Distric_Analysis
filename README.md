@@ -13,11 +13,11 @@ Due to potential academic dishonesty by the ninth grade students of Thomas High 
    
 Original
 
-![District_Summary_df_Original.png](https://github.com/OrGriss26/School_District_Analysis/tree/main/Resources/PNG)
+![District_Summary_df_Original.png](https://github.com/OrGriss26/School_District_Analysis/tree/main/Resources/District_Summary_df_Original.png)
 
 Updated
 
-![District_Summary_df_Updated.png](https://github.com/OrGriss26/School_District_Analysis/tree/main/Resources/PNG)
+![District_Summary_df_Updated.png](https://github.com/OrGriss26/School_District_Analysis/tree/main/Resources/District_Summary_df_Updated.png)
 
 2. How is the school summary affected?
 
@@ -25,11 +25,11 @@ Updated
 
 Original
 
-![School_Summary_df_Original.png](https://github.com/OrGriss26/School_District_Analysis/tree/main/Resources/PNG)
+![School_Summary_df_Original.png](https://github.com/OrGriss26/School_District_Analysis/tree/main/Resources/School_Summary_df_Original.png)
 
 Updated
 
-![School_Summary_df_Updated.png](https://github.com/OrGriss26/School_District_Analysis/tree/main/Resources/PNG)
+![School_Summary_df_Updated.png](https://github.com/OrGriss26/School_District_Analysis/tree/main/Resources/School_Summary_df_Updated.png)
 
 3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
